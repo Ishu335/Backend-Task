@@ -1,0 +1,5 @@
+jose
+fastapi
+uvicorn
+sqlalecmys
+alembic
